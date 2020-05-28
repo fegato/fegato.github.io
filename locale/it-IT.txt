@@ -236,6 +236,8 @@ HotspotPanoramaOverlayArea_7AF9C7EE_5B33_1D51_41BB_213454DE4DF9.toolTip = Camera
 HotspotPanoramaOverlayArea_7B9F2742_5B2D_1D51_41CE_7E540C35D071.toolTip = Bagno
 HotspotPanoramaOverlayArea_7ED223D0_5BF5_1572_41C7_B0D907210602.toolTip = Esterno
 HotspotPanoramaOverlayArea_7F049C34_5BD5_3331_419B_19870481D87E.toolTip = torna al centro
+HotspotPanoramaOverlayArea_7F1C4BD4_5BD3_7571_41AE_AF04AE30DE9B.toolTip = vai allo studio \
+
 HotspotPanoramaOverlayArea_7F8A97FC_5BD6_FD32_41D1_7662685914E1.toolTip = Scarica PDF
 HotspotPanoramaOverlayArea_7FF852FE_5BDF_1731_41C9_496BC066176E.toolTip = Pomodoro
 overlay_7F808BF4_5C8C_C51F_41C4_49812CBC6453.toolTip = guarda il video
