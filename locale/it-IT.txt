@@ -217,7 +217,7 @@ video_7E3D6D96_5BDD_EDF1_41C3_26B2C71257C9.label = flyREEL
 ### Body
 htmlText_41692ED0_5BBC_FF18_41BC_16C6A68AC9A0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">SOLO UNA PROVA</SPAN></DIV></BODY></HTML></div>
 htmlText_41C42BFD_5B2F_1533_41B8_6110C4428AEB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</SPAN></DIV></BODY></HTML></div>
-htmlText_7AADBF2E_5C8C_BD08_41D6_A1AB43CC1A0E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Segoe UI';">Questo è un testo di prova per mostrare le funzionalità del tour virtuale.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_7AADBF2E_5C8C_BD08_41D6_A1AB43CC1A0E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Segoe UI';">Questo è un testo di prova come l'audio che state ascoltando per mostrare le funzionalità del tour virtuale.</SPAN></SPAN></DIV></BODY></HTML></div>
 
 ## Hotspot
 
@@ -238,7 +238,7 @@ HotspotPanoramaOverlayArea_7ED223D0_5BF5_1572_41C7_B0D907210602.toolTip = Estern
 HotspotPanoramaOverlayArea_7F049C34_5BD5_3331_419B_19870481D87E.toolTip = torna al centro
 HotspotPanoramaOverlayArea_7F1C4BD4_5BD3_7571_41AE_AF04AE30DE9B.toolTip = vai allo studio \
 
-HotspotPanoramaOverlayArea_7F8A97FC_5BD6_FD32_41D1_7662685914E1.toolTip = Scarica PDF
+HotspotPanoramaOverlayArea_7F8A97FC_5BD6_FD32_41D1_7662685914E1.toolTip = Scarica il PDF
 HotspotPanoramaOverlayArea_7FF852FE_5BDF_1731_41C9_496BC066176E.toolTip = Pomodoro
 overlay_7F808BF4_5C8C_C51F_41C4_49812CBC6453.toolTip = guarda il video
 
