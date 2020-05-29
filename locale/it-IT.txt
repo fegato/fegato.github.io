@@ -206,11 +206,8 @@ panorama_56CAC448_5AD5_7351_41CC_D34049AE8636.label = OpenSpace1
 panorama_56F0C0C7_5AD5_135E_41D2_1A517AED3360.label = OpenSpace3
 photo_4F631F2A_5B7D_DD08_41D4_72E15B76D5D6.label = kisspng-eames-lounge-chair-chaise-longue-resin-wicker-furn-lounge-chair-amusing-lounge-chair-for-bedroom-full-5ba9d34ff20568.5372930115378563359913
 photo_799B3D9E_5C84_BD0B_41C6_F1530F41A0A5.label = 3d-arrow
-video_47C5E947_5B5F_755E_41C6_EF2FC647FE76.label = A.Pomodoro_pillola_1
 video_7866E7EE_5C8C_CD0B_41CE_66E03F80E0D5.label = Calendario Korian 2020_NO SOUND
 video_7873CCCB_5C8C_4308_41D4_FEE86C973DB5.label = Calendario Korian 2020
-video_791CC265_5B84_C739_4190_41FCE849FCB1.label = flyREEL_nosound
-video_7E3D6D96_5BDD_EDF1_41C3_26B2C71257C9.label = flyREEL
 
 ## Popup
 
@@ -228,6 +225,7 @@ HotspotPanoramaOverlayArea_43F4786B_5B2F_1356_41D2_776099528186.toolTip = Poltro
 HotspotPanoramaOverlayArea_4468DAA4_5B56_F7D1_41D2_399A1852FCF5.toolTip = guarda un esempio di video 360
 HotspotPanoramaOverlayArea_7571238A_5C84_4508_41D5_FB32132796E1.toolTip = torna al centro
 HotspotPanoramaOverlayArea_78323756_5B33_1D71_41B4_A5DD4FBFA931.toolTip = Piantina
+HotspotPanoramaOverlayArea_78D25610_5B2D_3EF1_41C2_12F927E5F611.toolTip = Vai alla PIANTINA
 HotspotPanoramaOverlayArea_796019F5_5CBC_4518_41C3_85ACA4A21EDD.toolTip = Torna all'Open Space
 HotspotPanoramaOverlayArea_797929CB_5CBC_4508_41D5_D92DD2604AE7.toolTip = mostra/nascondi gli hotspot
 HotspotPanoramaOverlayArea_7A3FA7EA_5B55_1D51_41D5_706EDB677778.toolTip = Avanti
